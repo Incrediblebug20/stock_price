@@ -1,11 +1,4 @@
 # stock_price
-Sure! Below is a README file text for the stock price prediction project:
-
----
-
-# Stock Price Prediction
-
-This project utilizes Python, Pandas, machine learning, and deep learning algorithms to predict stock prices based on historical data.
 
 ## Table of Contents
 
